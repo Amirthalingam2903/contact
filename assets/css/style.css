@@ -1,0 +1,59 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;300;400;600;700&display=swap'); */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* navbar */
+.nav-brand{
+    width: 70px;
+}
+.nav-item .nav-link{
+    font-size: 16px;
+    font-weight: 600;
+}
+ul li{
+    margin-right:30px;
+}
+/* navbar end */
+
+input{
+    border:none;
+    border-bottom: 1px solid gainsboro;
+    width: 100%;
+}
+.message{
+    border:none;
+    border-bottom: 1px solid gainsboro;
+    width: 100%;
+}
+.backgroud{
+    background-color:#fdd8d0;
+}
+.form-background{
+    background-color: #fff;
+}
+.btn{
+    background-color: #ff5b2e;
+    color: #fff;
+}
+.btn:hover{
+    color: #ff5b2e;
+    background-color: #fff;
+    border: 1px solid #ff5b2e;
+}
+.lock-icon{
+    width: 15px;
+    height: 15px;
+}
+.form-icon{
+    width:40;
+    height: 40px;
+}
+.form-icon-names{
+    font-size: 12px;
+}
+.social-icon{
+    font-size: 18px;
+}
